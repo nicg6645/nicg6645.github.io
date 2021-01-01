@@ -1,3 +1,5 @@
-layout: page
+---
+layout: default
+---
 # Test
 words forthcoming
